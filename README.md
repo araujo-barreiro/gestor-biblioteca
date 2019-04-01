@@ -5,7 +5,6 @@ Proyecto final de la asignatura de Programación I de Teleco. Se trata de una ap
 <b>Compilación:</b> `make` (fichero Makefile en el repositorio)<br>
 <b>Ejecución:</b> `./biblioteca` (no necesita parámetros; crea los ficheros en el mismo directorio)
 
-Para más información, consultar la wiki del repositorio
-
+Para más información, consultar `Documentación.pdf` y `Diagrama de flujo.pdf`.
 # Autores
 <a href="https://github.com/diegoara96">Diego Araújo Novoa</a> y <a href="https://github.com/gbarreiro">Guillermo Barreiro Fernández</a>
