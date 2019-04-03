@@ -1,5 +1,5 @@
 # Gestor de biblioteca
-Proyecto final de la asignatura de Programación I de Teleco. Se trata de una aplicación para gestionar los libros y lectores de una biblioteca. Está programada en C, y como base de datos utiliza dos ficheros de texto: `lectores.txt` y `referencias.txt`, los cuales se crearán automáticamente si no existen.
+Proyecto final de la asignatura de Programación I de Ingeniería de Telecomunicaciones. Se trata de una aplicación para gestionar los libros y lectores de una biblioteca. Está programada en C, y como base de datos utiliza dos ficheros de texto: `lectores.txt` y `referencias.txt`, los cuales se crearán automáticamente si no existen.
 
 # Utilización
 <b>Compilación:</b> `make` (fichero Makefile en el repositorio)<br>
